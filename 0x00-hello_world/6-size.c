@@ -1,9 +1,9 @@
 #include  <stdio.h>
 /**
  *
- * for those of us ready
+ * main - entry point
  *
- * gods
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
