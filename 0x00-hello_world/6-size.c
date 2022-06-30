@@ -1,7 +1,7 @@
 #include  <stdio.h>
 /**
  *
- * for those of us ready 
+ * for those of us ready
  *
  * gods
  */
