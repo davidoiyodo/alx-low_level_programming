@@ -1,8 +1,8 @@
 #include  <stdio.h>
 /**
- * message
- * for 
- * the 
+ *
+ * for those of us ready 
+ *
  * gods
  */
 int main(void)
