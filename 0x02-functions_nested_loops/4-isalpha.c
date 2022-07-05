@@ -22,5 +22,3 @@ int _isalpha(int c)
 	}
 
 }
-Footer
-
