@@ -19,7 +19,7 @@ int _strlen(char *s)
 }
 
 /**
- _strcpy - copy arrays
+ *_strcpy - copy arrays
  *@src: array of elements
  *@dest: dest array
  *Return: dest
