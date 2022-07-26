@@ -1,0 +1,7 @@
+trdup.c:60: ERROR: spaces preferred around that '*' (ctx:WxV)                                                                                                        
+total: 1 errors, 1 warnings, 68 lines checked                                                                                                                           
+_strlen                                                                                                                                                                 
+1-strdup.c:22: warning: Cannot understand  _strcpy - copy arrays                                                                                                        
+ on line 22 - I thought it was a doc line                                                                                                                               
+1-strdup.c:28: warning: no description found for function _strcpy                                                                                                       
+_strdup                      
